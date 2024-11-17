@@ -8,7 +8,7 @@ Matkul: Bahasa Pemrograman
 
 # Latihan 1
 
-![gambar](https://github.com/andreanbadeh/Praktikum-6/blob/ed3dcf195fd99cd0d2628e3c6d371979831d041b/Image/Screenshot%202024-11-15%20102908.png)
+![gambar](https://github.com/Abcdeflahhh/prak5-2-/blob/868d3cb836e2f66189179c8dd940e07d77c3692c/images/lat1.jpg)
 
 # daftar kontak.py
 
@@ -45,11 +45,11 @@ for nama, nomor in kontak.items():
 
 Code Program Tersebut:
 
-![gambar](https://github.com/andreanbadeh/Praktikum-6/blob/ba663d79556ed69b8e9cfe1f8930f9b06acb8c3a/Image/code.png)
+![gambar](https://github.com/Abcdeflahhh/prak5-2-/blob/868d3cb836e2f66189179c8dd940e07d77c3692c/images/kontak.jpg)
 
 Hasil Program Tersebut:
 
-![gambar](https://github.com/andreanbadeh/Praktikum-6/blob/d29b778dcc226aa7413e57cd1645937e9b99e605/Image/Screenshot%202024-11-15%20104406.png)
+![gambar](https://github.com/Abcdeflahhh/prak5-2-/blob/868d3cb836e2f66189179c8dd940e07d77c3692c/images/kontak%20code.jpg)
 
 # Input Nilai.py
 ```python
@@ -253,8 +253,8 @@ Untuk bagian utama dari program, yang menyediakan menu interaktif untuk memilih 
 
 Code Program Tersebut:
 
-![gambar](https://github.com/andreanbadeh/Praktikum-6/blob/5f5a6fba20ef4240594ce28ab696dbf6e181c74d/Image/input%20nilai.png)
+![gambar](https://github.com/Abcdeflahhh/prak5-2-/blob/868d3cb836e2f66189179c8dd940e07d77c3692c/images/inputnilai.jpg)
 
 Hasil Program Tersebut:
 
-![gambar](https://github.com/andreanbadeh/Praktikum-6/blob/5f5a6fba20ef4240594ce28ab696dbf6e181c74d/Image/Screenshot%202024-11-16%20055659.png)
+![gambar](https://github.com/Abcdeflahhh/prak5-2-/blob/868d3cb836e2f66189179c8dd940e07d77c3692c/images/code%20input%20nilai.jpg)
