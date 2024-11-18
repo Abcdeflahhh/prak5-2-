@@ -258,3 +258,7 @@ Code Program Tersebut:
 Hasil Program Tersebut:
 
 ![gambar](https://github.com/Abcdeflahhh/prak5-2-/blob/868d3cb836e2f66189179c8dd940e07d77c3692c/images/code%20input%20nilai.jpg)
+
+Flowchart Prgram Tersebut:
+
+![gambar](https://github.com/Abcdeflahhh/prak5-2-/blob/3d1c21b8b1a897b4e442ded433c3e06e1bfd7cac/images/Screenshot%202024-11-18%20214837.png)
